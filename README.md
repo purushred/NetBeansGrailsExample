@@ -1,0 +1,4 @@
+NetBeansGrailsExample
+=====================
+
+NetBeans Grails Example
